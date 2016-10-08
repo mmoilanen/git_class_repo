@@ -1,4 +1,3 @@
-Look, it bombed!
+Look, it really worked!
 Sat, Oct  8, 2016 11:39:25 AM
-This bombed too!
-new line for v2
+This really worked too!
